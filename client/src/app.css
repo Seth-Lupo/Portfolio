@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@800&display=swap');
+
+canvas {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
+}
+
+:root {
+  overflow-x: hidden;
+  background-color: #c6bbb9;
 }
