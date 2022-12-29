@@ -4,8 +4,12 @@
   import Counter from './lib/Counter.svelte'
 </script>
 
-<main>
+<main class="lock">
 
   <About></About>
 
 </main>
+
+<style>
+  
+</style>
