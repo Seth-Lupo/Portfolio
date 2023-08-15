@@ -3,10 +3,7 @@
 export default () => {
     
     let schoolMap = {
-        me: "Cornell",
-        portfolio: "MIT",
         projects: "Tufts",
-        stuff: "UMass Amherst",
     }
     
     let regex = /\/\w+/g
@@ -15,8 +12,7 @@ export default () => {
    
 
     if (matches == null || matches.length == 0) {
-        
-        return false
+        return "Tufts"
     } else {
         
         let word = matches[0]
