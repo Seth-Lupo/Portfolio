@@ -15,22 +15,10 @@ class:active= {active}>
 
     <h1>Future Plans</h1>
     
-    <p>I currently want to pursue a Doctorate in computer science. Specifically, I want to study <a href="https://en.wikipedia.org/wiki/Theoretical_computer_science">theoretical computing</a> and <a href="https://en.wikipedia.org/wiki/Algorithmic_information_theory">algorithmic information theory</a>. I don't want to just use computers; I want to study the limit of what is computationally possible.</p>
-
-    <p>After I earn my degree, I've been thinking about becoming a professor. I've always enjoyed teaching others. Also, being a professor will let me conduct my own research free from financial incentives. However, this plan is subject to change—many things can happen in 6 years!</p>
-
-    <p>I am currently in the process of applying colleges (odds are you're probably an admission officer). Because of that, my future is uncertain. 
+    <p>My passion for difficult math and computer science puzzles drives my interest in becoming a quantitative trader. I thrive on the challenge of solving complex problems, and I see quantitative trading as the perfect intersection of these disciplines, where I can apply advanced mathematical models and cutting-edge computational techniques to real-world financial markets. </p> 
+    
+    <p>What can I say... the fast-paced, intellectually demanding environment of trading excites me!</p>
         
-        {#if getSchool()}
-        <b>However, I hope to get into my dream school...</b>
-        {:else}
-        Still, I remain excited to encounter what's next.
-        {/if}
-
-
-
-    </p>
-   
 
    
 </main>

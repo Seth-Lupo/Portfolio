@@ -26,7 +26,6 @@
     <WhyPanel></WhyPanel>
     <TechPanel></TechPanel>
     <FuturePanel></FuturePanel>
-    <SchoolPanel></SchoolPanel>
     <ProjectPanel></ProjectPanel>
     
     

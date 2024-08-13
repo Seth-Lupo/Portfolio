@@ -13,9 +13,7 @@ class:active= {active}>
 
     <h1>Let me introduce myself,</h1>
     <h2>I'm Seth!</h2>
-    <p>You probably knew that from the title.</p>
-    <p>I'm a Senior at Innovation Academy Charter School in Tyngsboro, Massachusetts. As my high school career comes to a close, I would like to present a few of the projects I've built so far. By doing so, I hope to show off my skills.</p>
-    <p><b>If there is one thing you need to know about me...</b></p>
+    <p>I'm an undergraduate student at Tufts University. I love many things, but <b>if there is one thing you need to know about me...</b></p>
 
    
 </main>
