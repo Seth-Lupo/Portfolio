@@ -1,15 +1,12 @@
 <script>
-  import About from './about/About.svelte';
-  import svelteLogo from './assets/svelte.svg'
-  import Counter from './lib/Counter.svelte'
+  import Home from './routes/Home.svelte';
+  import Blog from './routes/Blog.svelte';
+  
+  let currentPath = window.location.pathname;
 </script>
 
-<main class="lock">
-
-  <About></About>
-
-</main>
-
-<style>
-  
-</style>
+{#if currentPath === '/blog'}
+  <Blog />
+{:else}
+  <Home />
+{/if}
